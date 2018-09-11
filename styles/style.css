@@ -18,8 +18,10 @@ html {
   
   
   html {
-    background-color: rgba(250, 117, 9, 0.945);
-   
+    background-image: url(../images/Mega_man_cover.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
   }
   
   body {
