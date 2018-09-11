@@ -1,0 +1,43 @@
+html {
+    font-size: 10px;
+    font-family: 'Baloo Tammudu', cursive;
+    
+  }
+  
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;  
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  
+  html {
+    background-color: rgba(250, 117, 9, 0.945);
+   
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(255, 253, 250);
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;  
+    color: rgba(250, 115, 37, 0.959);
+    text-shadow: 3px 3px 1px black;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
